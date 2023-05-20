@@ -1,0 +1,17 @@
+{
+    "name": "professional/php-tdd",
+    "autoload": {
+        "psr-4": {
+            "": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "AnastasiaCymbalyuk",
+            "email": "n.wolk@mail.ru"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^10.1"
+    }
+}
